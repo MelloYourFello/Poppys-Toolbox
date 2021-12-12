@@ -56,7 +56,7 @@ Poppys Toolbox is a speedrunning mod with multiple features such as: 100% toggle
 
 
 <!-- INSTALLATION -->
-### Installation
+## Installation
 
 Installing Poppys Toolbox Has Never Been Easier! Just Follow These Tips Below!
 
