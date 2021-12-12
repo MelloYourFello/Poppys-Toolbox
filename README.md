@@ -37,9 +37,7 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
     <li><a href="#installation">Installation</a></li>
-      </ul>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="contact">Contact</a></li>
   </ol>
@@ -57,6 +55,8 @@
 Poppy Playtime needs a speedrun mod, and is now getting one!
 Poppys Toolbox is a speedrunning mod with multiple features such as: 100% toggleable god cubes, save states, god mode, console, custom commands, fly, noclip,  getbluehand, getredhand, getbothhands, LoadCheckpoint, Demos, ShowHitboxes, vhsgrab (VHS number), plugins and even more! This really is the next generation of glitchhunting.
 
+
+<!-- INSTALLATION -->
 ### Installation
 
 Installing Poppys Toolbox Has Never Been Easier! Just Follow These Tips Below!
