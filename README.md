@@ -38,7 +38,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#installation">Installation</a></li>
+    <li><a href="#installation">Installation</a></li>
       </ul>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="contact">Contact</a></li>
