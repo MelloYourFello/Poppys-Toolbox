@@ -80,6 +80,7 @@ Installing Poppys Toolbox Has Never Been Easier! Just Follow These Tips Below!
 - [ ] Add LoadCheckpoint
 - [ ] Add getHand (blue, red or both)
 - [ ] Add Demos (records game)
+- [ ] Add... More??
 
 
 See the [open issues](https://github.com/MelloYourFello/Poppys-Toolbox/issues) for a full list of proposed features (and known issues).
