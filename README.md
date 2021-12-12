@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/MelloYourFello/Poppys-Toolbox">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="179" height="173">
   </a>
 
   <h3 align="center">Poppys Toolbox</h3>
